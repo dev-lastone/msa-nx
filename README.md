@@ -17,12 +17,14 @@ To run the dev server for your app, use:
 
 ```sh
 npx nx serve nestjs
+npx nx serve spring
 ```
 
 To create a production bundle:
 
 ```sh
 npx nx build nestjs
+npx nx build spring
 ```
 
 To see all available targets to run for a project, run:
